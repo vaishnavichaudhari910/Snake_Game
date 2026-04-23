@@ -1,7 +1,6 @@
 # 🐍 Snake Game
 
 A classic Snake Game built using JavaScript, where players control the snake to eat food, grow longer, and avoid collisions.
-
 ---
 
 ## 🎮 Features
